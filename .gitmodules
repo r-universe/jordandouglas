@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "phylowise"]
+	path = phylowise
+	url = https://github.com/jordandouglas/phylowise
+	subdir = phylowise
